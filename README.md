@@ -23,3 +23,9 @@ make sure install php extension sa vs code then all goods na dayun
 
 features added and modified- no more darkmode, print Task report
 
+
+
+task-sync.42web.io
+
+
+note: wala pay SSL ani
